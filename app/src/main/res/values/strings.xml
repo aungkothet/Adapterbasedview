@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PADC-ADAPTERBASEDVIEW-AKT</string>
+    <string name="john_t_lord">John T.Lord</string>
+    <string name="organizer">Organizer</string>
+    <string name="location_detail">Apartment 021, Building No 4, Uppder Pazundaung Township, Yangon</string>
+    <string name="location">Yangon Yangon BBQ</string>
+    <string name="age_range">18-25</string>
+    <string name="time_range">06:00 PM - 08:00 Pm</string>
+    <string name="birthday_party">Birthday Party</string>
+    <string name="title_activity_new">NewActivity</string>
+    <string name="dummy_text">We believe in enjoying life to the fullest without having to compromise anything. At John\'s Wedding Party, there will be beer, barbecues and a pool party too. No need to worry as John will make sure to provide all of these facilities. All you have to do is enjoy your drinks and dance.We believe in enjoying life to the fullest without having to compromise anything. At John\'s Wedding Party, there will be beer, barbecues and a pool party too. No need to worry as John will make sure to provide all of these facilities. All you have to do is enjoy your drinks and dance.We believe in enjoying life to the fullest without having to compromise anything. At John\'s Wedding Party, there will be beer, barbecues and a pool party too. No need to worry as John will make sure to provide all of these facilities. All you have to do is enjoy your drinks and dance.We believe in enjoying life to the fullest without having to compromise anything. At John\'s Wedding Party, there will be beer, barbecues and a pool party too. No need to worry as John will make sure to provide all of these facilities. All you have to do is enjoy your drinks and dance.</string>
+    <string name = "lbl_ok">OK</string>
+</resources>
